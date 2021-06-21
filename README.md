@@ -4,4 +4,4 @@ ExtendedPosty is a project built with PHP & Laravel in PHPStorm IDE. It is based
 **I made this project for university (LUT) classes.**
 
 ## What do You need to run?
-Project needs MySQL databases. Also project lacks mailing service credentials. I have used Mailtrap.io. 
+Project needs MySQL database. Also project lacks mailing service credentials. I have used Mailtrap.io. 
